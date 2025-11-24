@@ -2,6 +2,8 @@
 
 This project sets up an AWS Bedrock Knowledge Base integrated with an Aurora Serverless PostgreSQL database. It also includes scripts for database setup and file upload to S3.
 
+<img width="1116" height="796" alt="image" src="https://github.com/user-attachments/assets/4321e742-f6e4-46b3-9d12-9fb491a8e5fe" />
+
 ## Table of Contents
 
 1. [Project Overview](#project-overview)
